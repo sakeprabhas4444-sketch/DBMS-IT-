@@ -1,0 +1,34 @@
+Restaurant DBMS Project
+Overview
+This project is a Restaurant Database Management System (DBMS) developed using Microsoft SQL Server.
+It demonstrates database creation, table design, data insertion, and SQL queries for managing restaurant-related information.
+Technologies
+Microsoft SQL Server
+SQL
+Relational Database Management System (RDBMS)
+Main Modules
+Restaurant management
+Customer management
+Food management
+Staff management
+Payment management
+Database Operations
+The SQL script includes examples of:
+Database creation
+Table creation
+Primary keys
+Foreign keys
+Data insertion
+Data retrieval using SELECT
+Date handling
+Relational database structure
+How to Run
+Open SQL Server Management Studio (SSMS).
+Open PRABHAS_GitHub.sql.
+Execute the complete script.
+The script creates the restaurant database and its required tables/data.
+Run SELECT queries to verify the inserted records.
+Project File
+PRABHAS_GitHub.sql — Complete SQL Server database script.
+Author
+Sake Prabhas
